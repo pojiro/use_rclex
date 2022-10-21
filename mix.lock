@@ -1,0 +1,4 @@
+%{
+  "elixir_make": {:hex, :elixir_make, "0.6.3", "bc07d53221216838d79e03a8019d0839786703129599e9619f4ab74c8c096eac", [:mix], [], "hexpm", "f5cbd651c5678bcaabdbb7857658ee106b12509cd976c2c2fca99688e1daf716"},
+  "rclex": {:git, "https://github.com/rclex/rclex.git", "bde3328ee7cb5429d4b29ff94e9fd5ca33e8a2c9", [branch: "refactor-generate_messages_codes-pojiro"]},
+}
